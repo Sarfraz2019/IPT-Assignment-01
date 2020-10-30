@@ -1,0 +1,67 @@
+h1{
+    color: #7d71cc;
+    
+}
+#box{
+   text-align: center;
+   
+}
+#form{
+    background-color: #6b5acd;
+}
+td,th{
+
+    color: #d5d0ef;
+    padding: 10px;
+    
+}
+.all{
+    /* padding: 0%;
+    margin: 0%;
+   text-align: center; */
+  
+}
+
+/* .left{
+    padding: 0%;
+    margin: 0%;
+   text-align: left;
+   
+} */
+.button{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+#tick{
+    text-align: center;
+    padding: 80px;
+}
+#thank{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 16px;
+    
+    color: #00b729;
+}
+#submited{
+    color: #971bdf;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 16px;
+}
+#tickimg{
+    width: 200px;
+    /* width: 10%;
+     height :100px; */
+}
+#goback{
+    color: #6c4870;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 16px;
+}
+
+
+
